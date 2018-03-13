@@ -23,3 +23,4 @@ description: "First international workshop on learning from limitted noisy data 
 
 # Build settings
 # permalink: pretty
+theme: jekyll-theme-minimal
