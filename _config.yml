@@ -1,0 +1,25 @@
+markdown    : kramdown
+highlighter : pygments
+gems: [jekyll-paginate]
+
+destination: _site
+
+# SEO settings
+url: http://lnd4ir.github.io
+baseurl: ""
+# baseurl: ""
+
+
+# Author settings
+author:
+  name      : Mostafa Dehgahni
+  url       : http://mostafadehghani.com/
+
+
+# Site settings
+title: LND4IR'18
+# email: your-email@domain.com
+description: "First international workshop on learning from limitted noisy data for information retrieval."
+
+# Build settings
+# permalink: pretty
