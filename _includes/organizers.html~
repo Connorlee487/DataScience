@@ -11,11 +11,11 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Hamed Zamani, University of Massachusetts Amherst</p>
-		    <p class="large text-muted">Mostafa Dehghani, University of Amsterdam</p>
-		    <p class="large text-muted">Fernando Diaz, Spotify</p>
-		    <p class="large text-muted">Hang Li, Toutiao</p>
-		    <p class="large text-muted">Nick Craswell, Microsoft</p>
+                    <p class="large text-muted"><a href="http://cs.umass.edu/~zamani" target="\_blank">Hamed Zamani</a>, University of Massachusetts Amherst</p>
+		    <p class="large text-muted"><a href="http://mostafadehghani.com/" target="\_blank">Mostafa Dehghani</a>, University of Amsterdam</p>
+		    <p class="large text-muted"><a href="http://fernando.diaz.nyc/" target="\_blank">Fernando Diaz</a>, Spotify</p>
+		    <p class="large text-muted"><a href="http://hangli-hl.com/index.html" target="\_blank">Hang Li</a>, Toutiao</p>
+		    <p class="large text-muted"><a href="https://www.microsoft.com/en-us/research/people/nickcr/" target="\_blank">Nick Craswell</a>, Microsoft</p>
                 </div>
             </div>
         </div>
