@@ -19,7 +19,7 @@ author:
 # Site settings
 title: LND4IR
 # email: your-email@domain.com
-description: "First international workshop on learning from limitted noisy data for information retrieval."
+description: "The first international workshop on learning from limitted/noisy data for information retrieval."
 
 # Build settings
 # permalink: pretty
@@ -41,7 +41,7 @@ people:
 - name: Fernando Diaz
   pic: 3
   position: Spotify
-  url: Fernando Diaz
+  url: http://fernando.diaz.nyc/
 
 - name: Hang Li
   pic: 4
