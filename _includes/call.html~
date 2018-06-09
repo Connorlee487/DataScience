@@ -18,6 +18,7 @@
 									<ul>
 										<li>Learning from automatically constructed data</li>
 										<li>Learning from implicit feedback data, e.g., click data</li>
+										<li>Meta-learning for noisy data</li>
 									</ul>
 							  			<li>Distant or weak supervision and learning from IR heuristics</li>
 							 			<li>Unsupervised and semi-supervised learning for IR</li>
